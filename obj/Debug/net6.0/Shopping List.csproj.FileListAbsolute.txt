@@ -1,0 +1,15 @@
+C:\Users\Percy\Desktop\Deliverables\Shopping List\bin\Debug\net6.0\Shopping List.exe
+C:\Users\Percy\Desktop\Deliverables\Shopping List\bin\Debug\net6.0\Shopping List.deps.json
+C:\Users\Percy\Desktop\Deliverables\Shopping List\bin\Debug\net6.0\Shopping List.runtimeconfig.json
+C:\Users\Percy\Desktop\Deliverables\Shopping List\bin\Debug\net6.0\Shopping List.dll
+C:\Users\Percy\Desktop\Deliverables\Shopping List\bin\Debug\net6.0\Shopping List.pdb
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.csproj.AssemblyReference.cache
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfoInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfo.cs
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.csproj.CoreCompileInputs.cache
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.dll
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\refint\Shopping List.dll
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.pdb
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\Shopping List.genruntimeconfig.cache
+C:\Users\Percy\Desktop\Deliverables\Shopping List\obj\Debug\net6.0\ref\Shopping List.dll
